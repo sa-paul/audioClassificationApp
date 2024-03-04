@@ -31,5 +31,7 @@ This project demonstrates how to record audio from the microphone using web brow
 
 - [Meyda.js](https://github.com/meyda/meyda) - A JavaScript library for audio feature extraction.
 
+## Output 
 
+![alt text](image.png)
 
